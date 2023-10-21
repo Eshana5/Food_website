@@ -1,0 +1,17 @@
+.menu{border:0px solid black;
+height=500px;
+display:flex;
+justify-content:space-around;
+align-items:center;}
+.menu1{border:0px solid black;
+width:370px;
+height:270px;
+float:left;
+margin-top:20px;
+margin-bottom:20px;
+box-shadow:0 4px 8px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.35);
+transition:transform 1s;}
+.menu1:hover{transform:scale(1.05)}
+.menu img{width:100%;
+height:85%;}
+.menutitle p{text-align:center;}

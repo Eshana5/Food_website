@@ -1,0 +1,16 @@
+.footer{
+height:100px;
+width:100%;
+background-color:purple;
+border:0px solid black;
+display:flex;
+justify-content:space-around;
+align-items:center;}
+.footera{
+height:80px;
+width:600px;
+border:0px solid blue;
+float:left;
+color:white;
+text-align:center;
+}
